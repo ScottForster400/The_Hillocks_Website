@@ -19,23 +19,23 @@
         
         <div class="info">
             <h2>Upcoming Gigs</h2>
-            <a href="https://www.eventbrite.com/e/pierfest-2024-tickets-805258859927" class="gig-link" target="_blank">
+            <a href="https://www.skiddle.com/whats-on/Warrington/FC2/Big-Condo-Records-presents-Arrhythmia-3/40063311/" class="gig-link" target="_blank">
                 <div class="gig-display">
                     <div class="gig-image">
                         <div class="img-container">
-                            <img src="imgs/pier.png" alt="euro">
+                            <img src="imgs/fc2-big-con-gig.png" alt="euro">
                         </div>
                     </div>
                     <div class="gig-info">
                         <div class="gig-info-cont">
-                            <h2>Pier Fest</h2>
-                            <P>25th May, 3PM, 254 Thelwall Ln, Latchford East, Warrington WA4 1NG</P>
-                            <p>£16</p>
+                            <h2>FC2 Arrhythmia 3</h2>
+                            <P>26th October, 6PM<br>Friars Court, 4B Barbauld St, Warrington WA1 1EX</P>
+                            <p>£11.25</p>
                         </div>
                     </div>
                 </div>
             </a>
-            <a href="https://parrhall.culturewarrington.org/whats-on/warrington-music-festival-2024/" class="gig-link" target="_blank">
+            <!-- <a href="https://parrhall.culturewarrington.org/whats-on/warrington-music-festival-2024/" class="gig-link" target="_blank">
                 <div class="gig-display">
                     <div class="gig-image">
                         <div class="img-container">
@@ -66,7 +66,7 @@
                         </div>
                     </div>
                 </div>
-            </a>
+            </a> -->
         </div>
         <?php
             include("inc/foot-inc.php")

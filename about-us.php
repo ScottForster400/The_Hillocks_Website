@@ -21,22 +21,21 @@
         <div class="info">
             <h2>About Us</h2>
             <p>The Hillocks are an indie band originating from Warrington, formed in 2022.
-                 The band comprises Sam on vocals, Marcell on Drums, Harvey on bass, and Scott on guitar. 
-                 Despite being a relatively new act, The Hillocks have quickly carved out a niche in the local music scene with their 
-                 eclectic mix of melodic indie rock and introspective lyrics.</p>
+                 The band includes Sam on vocals, Marcell on Drums, Harvey on bass, and Scott on guitar.<br>
+                 "This band are completely lost in the sounds and feels they create" - New Sound Generation
+                 </p>
             <div class="member">
                 <div class="slide-in from-left">
                     <div class="img-cont">
-                        <img src="imgs/smev-edit-sq.png" alt="smev" class="member-img">
+                        <img src="imgs/smev.webp" alt="smev" class="member-img">
                     </div>
                 </div>
                 <div class="slide-in from-right">
                     <div class="member-inf">
                         <h2>Sam</h2>
-                        <p>Sam is the charismatic lead singer and guitarist of The Hillocks, an indie band from Warrington formed in 2022.
-                         Known for his soulful voice and compelling stage presence, Sam is the creative force driving the band's
-                          distinctive sound and heartfelt lyrics. His passion for music started at a young age, influenced by the rich 
-                          musical heritage of the UK and iconic indie bands.</p>
+                        <p>Sam is the lead singer of The Hillocks.<br>
+                        Known for his compelling stage presence, he is the front man of the band putting on a great show for the audiences.
+                         His love for music started at a young age, with influences from bands such as FUR, The High Flying birds and The Blossoms.</p>
                     </div>
                 </div>
             </div>
@@ -44,31 +43,30 @@
                 <div class="slide-in from-left">
                     <div class="member-inf">
                         <h2>Harvey</h2>
-                        <p>Harvey is the talented bassist of The Hillocks, an indie band from Warrington formed in 2022. 
-                            Known for his rhythmic precision and melodic bass lines, Harvey provides the essential groove that
-                            underpins the band's distinctive sound. His musical journey began in his early teens, 
-                            heavily influenced by both classic rock legends and modern indie innovators.</p>
+                        <p>Harvey is the bassist of The Hillocks.<br> 
+                            His excellet playing provides a great groove to the band which can be seen in the many bass driven songs performed.
+                            He began playing in his teens influenced by bands such as The Red Hot Chilli Peppers and The Goriilaz.</p>
                     </div>
                 </div>
                 <div class="slide-in from-right">
                     <div class="img-cont">
-                        <img src="imgs/harv-edit.png" alt="smev" class="member-img">
+                        <img src="imgs/harv.webp" alt="Harvey" class="member-img">
                     </div>
                 </div>
             </div>
             <div class="member">
                 <div class="slide-in from-left">
                     <div class="img-cont">
-                        <img src="imgs/marcell-edit.jpg" alt="smev" class="member-img">
+                        <img src="imgs/marc.webp" alt="Marcell" class="member-img">
                     </div>
                 </div>
                 <div class="slide-in from-right">
                     <div class="member-inf">
                         <h2>Marcell</h2>
-                        <p>Marcell is the dynamic drummer of The Hillocks, an indie band from Warrington formed in 2022.
-                             Renowned for his energetic and precise drumming style, Marcell is the heartbeat of the band's 
-                             rhythm section, driving their songs with both power and finesse. His passion for percussion began in childhood, 
-                             inspired by a mix of legendary rock drummers and contemporary rhythm innovators.</p>
+                        <p>Marcell is the drummer of The Hillocks.<br>
+                            His energetic drumming provides the essential energy behing many of the Hilllocks.
+                            He began playing in his early teens influenced by many artists such as Pink Floyd and The Foo Fighters.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -76,14 +74,14 @@
                 <div class="slide-in from-left">
                     <div class="member-inf">
                         <h2>Scott</h2>
-                        <p>Scott is the talented guitarist of The Hillocks, an indie band from Warrington formed in 2022. 
-                            Known for his innovative playing and melodic sensibilities, Scott brings a unique sonic texture to the band's music. 
-                            His journey with the guitar began in his early teens, heavily influenced by a blend of classic rock icons and modern indie guitarists.</p>
+                        <p>Scott is the guitarist of The Hillocks.<br>
+                            Providing melodic and rythmic riffs and progressions behing many of the songs performed.
+                            His playing began in his early teens, influenced by bands such as Radiohead and Interpol.</p>
                     </div>
                 </div>
                 <div class="slide-in from-right">
                     <div class="img-cont">
-                        <img src="imgs/scott-edit.jpg" alt="smev" class="member-img">
+                        <img src="imgs/scott.webp" alt="Scott" class="member-img">
                     </div>
                 </div>
             </div>

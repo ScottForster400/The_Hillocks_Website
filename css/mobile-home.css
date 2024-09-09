@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+html,body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body{
     margin: 0px;
     font-family: "Lato", sans-serif;
@@ -74,6 +79,7 @@ body{
     display: flex;
     justify-content: center;
     align-content: center;
+    max-width: 320px;
 }
 .banner img{
     width:100%;
@@ -83,10 +89,10 @@ body{
     display: flex;
     flex-direction: column;
     height: auto;
-    min-height: 100px;
     justify-content: center;
     align-items: center;
     padding: 15px;
+    min-height: 400px;
 }
 .info-index{
     margin-top: -50px;
@@ -145,7 +151,7 @@ footer{
 .gig-info-cont{
     flex:80%;
     text-align: center;
-    padding-left: 20px;
+    padding: 0px 5px 0px 20px;
 }
 .music{
     display: flex;
@@ -198,4 +204,121 @@ input[type=submit]{
     width: 50%;
     padding: 5px;
     border-radius: 12px;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:rgba(167, 163, 163, 0.19) ;
+}
+.footer-1{
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    justify-content: center;
+    align-content: center;
+    padding-left: 0px;
+}
+.foot-inf{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    justify-content: center;
+    align-content: center;
+    min-height: 65px;
+    margin-bottom: 20px;
+}
+.foot-left{
+    display: flex;
+    flex-direction: column;
+    flex: 50%;
+
+}
+.foot-left a{
+    text-decoration: none;
+    color: rgb(188, 184, 184);
+    font-size: 14px;
+    padding: 0px 0px 10px 0px;
+}
+.foot-left-1, .foot-left-2{
+    display: flex;
+    flex:50%;
+    flex-direction: column;
+
+}
+.foot-right{
+    display: flex;
+    flex-direction: row;
+    flex: 50%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.foot-right a{
+    text-decoration: none;
+    color:white;
+}
+
+.member{
+    height: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    transition: background-color 1s;
+    box-shadow: none;
+    align-items: center;
+    padding: 25px 0px 25px 0px;
+}
+.member div{
+    flex: 50%;
+}
+.member .img-cont{
+    height: 200px;
+    width: 200px;
+    max-width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(167, 163, 163, 0.19), 0 6px 20px 0 rgba(167, 163, 163, 0.19);
+}
+.member .img-cont img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.member-inf{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fade-in{
+    opacity: 0;
+    transition: opacity 200ms ease-in;
+  }
+.fade-in.appear{
+    opacity:1;
+}
+.from-left{
+    transform:translateX(-50%)
+}
+.from-right{
+    transform:translateX(50%)
+}
+.from-left,.from-right{
+    transition: transform 550ms ease-in,opacity 650ms ease-in;
+    opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.from-left.appear,.from-right.appear{
+    transform: translateX(0);
+    opacity: 1;
+}
+.ban-cent{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
